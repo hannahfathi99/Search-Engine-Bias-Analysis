@@ -113,7 +113,6 @@ Search-Engine-Bias-Analysis/
 │   └── Search_Engine_Bias.py
 │
 ├── figures/
-│   ├── histogram.png
 │   ├── comparison.png
 │   └── gui.png
 │
