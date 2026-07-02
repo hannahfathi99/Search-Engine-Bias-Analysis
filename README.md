@@ -127,7 +127,7 @@ Search-Engine-Bias-Analysis/
 │   └── README.md
 │
 ├── examples/
-│   └── sample_queries.txt
+│   └──  search_history.db
 │
 ├── requirements.txt
 ├── LICENSE
