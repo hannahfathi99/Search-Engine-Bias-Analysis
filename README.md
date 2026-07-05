@@ -24,6 +24,21 @@ The goal is not to prove that a search engine is biased, but to provide a reprod
 
 ---
 
+## Research Timeline
+
+This project was initiated during my Bachelor’s studies in Computer Engineering at Islamic Azad University, Bushehr Branch.
+
+- **May 22, 2024:** Initial reading and critical review of the research paper  
+  *“Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines” (Maillé et al., 2022)*
+
+- Following this study, I independently implemented a Python-based system to reproduce and extend the methodology in an educational and experimental setting.
+
+- The implementation was developed as part of the Web Information Retrieval course final project.
+
+  
+---
+
+
 # Workflow
 
 ```
