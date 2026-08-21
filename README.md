@@ -235,10 +235,6 @@ Users should create their own API credentials before running the project.
 
 **Hannah Fathi**
 
-M.Sc. Student in Artificial Intelligence and Robotics
-
-Shiraz University
-
 Research Interests
 
 - Computer Vision
